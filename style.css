@@ -1,0 +1,121 @@
+*{margin: 0;
+padding: 0;
+}
+
+.background
+{
+	width: 100%;
+	height: 100%;
+	background-image:url("background.jpg");
+	background-size:cover;
+	position:relative;
+}
+.mainheading
+{text-transform: capitalize;
+color:   #737373;
+text-align: center;
+font-size: 150px;a
+font-family: HP Simplified;
+font-weight:normal
+margin-top:50px;
+
+}
+.content{font-family: HP Simplified;
+font-size:50px;
+color:#ffffff;
+font-weight:normal;
+text-transform: uppercase;
+text-align: center;}
+
+.nick{font-family: HP Simplified;
+font-size:25px;
+color:#ffffff;
+font-weight:normal;
+text-transform: capitalize;
+text-align:center;
+}
+.aboutme{margin-top: 30px; 
+	font-family: HP Simplified;
+font-size:20px;
+color:#000000;
+font-weight:normal;
+text-transform: capitalize;
+text-align: justify;
+background-color:#cccccc;
+padding:200px;
+
+}
+.achievements{
+	font-family: Adobe Heiti Std;
+
+	padding-top: 30px;
+	background-image:url(ab.jpg);
+	
+	font-size:50px;
+color:#ffad99;
+font-weight:normal;
+text-transform: capitalize;
+text-align: center;
+display: block;
+
+}
+#list1
+{font-family: HP Simplified;
+font-size:55px;
+color:#ffffff;
+font-weight:normal;
+text-transform: capitalize;
+text-align: right;
+padding-top: 50px;
+text-decoration:underline;
+}
+.skills{
+	
+background-image: url(skill.png);
+	text-align: center;
+	font-weight: normal;
+	font-family:Century Gothic;
+	font-size: 50px;
+	color:#000000;
+}
+#p:hover{background-color: rgba(100, 99, 71, 0.5);
+
+}
+.gallery:hover{
+
+    background-color: rgba(100, 99, 71, 0.5);
+
+}
+.gallery{ margin: 20px; 
+	
+
+	display:inline-block;
+  border: 2px solid black;
+    border-radius: 5px;}
+#gallery:hover{
+	background-color: rgba(100, 99, 71, 0.5);
+}
+	
+.desc{
+	font-family: Century Gothic;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 20px
+	font-weight:medium;
+}
+.forms{padding-top: 10px;
+	background-color: rgba(255, 99, 71, 0.2);
+	text-align: center;
+	font-family: SWIsot3;
+	font-color:black;
+	font-size:25px;
+}
+.footer{
+	padding-top: 30px;
+	padding-bottom: 50px;
+	font-family: Century Gothic;
+	background-color: #f0f0f0;
+	color:white
+	font-size:100px;
+	font-weight:normal;
+}
